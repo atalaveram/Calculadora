@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="mainStringBoton1">1</string>
+    <string name="mainStringBoton2">2</string>
+    <string name="mainStringBoton3">3</string>
+    <string name="mainStringBoton4">4</string>
+    <string name="mainStringBoton5">5</string>
+    <string name="mainStringBoton6">6</string>
+    <string name="mainStringBoton7">7</string>
+    <string name="mainStringBoton8">8</string>
+    <string name="mainStringBoton9">9</string>
+    <string name="mainStringBoton0">0</string>
+    <string name="mainStringBotonPunto">.</string>
+    <string name="mainStringBotonMas">+</string>
+    <string name="mainStringBotonMenos">-</string>
+    <string name="mainStringBotonPor">*</string>
+    <string name="mainStringBotonEntre">/</string>
+    <string name="mainStringBotonIgual">=</string>
+    <string name="mainStringBotonC">C</string>
+    <string name="mainStringBotonSeno">sen</string>
+    <string name="mainStringBotonCoseno">cos</string>
+</resources>
